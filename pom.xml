@@ -12,3 +12,6 @@ BUILD SUCCESS
 
 I cant do this part
 i dont know how to o[pen terminal and test
+
+open vs code and open the folder of library 
+then get a new terminal and paste mvn clean test
